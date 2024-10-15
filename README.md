@@ -52,7 +52,8 @@ npm start
 Open http://localhost:3000 in your browser.
 
 ## Project Structure
-. ├── public/ # Public directory for static files ├── src/ # Source directory for the application │ ├── components/ # Contains React components │ │ ├── dropdown.jsx # Component for grouping and sorting options │ │ ├── priority.jsx # Component for displaying tasks by priority │ │ ├── priority.css # Styles for priority component │ │ ├── status.jsx # Component for displaying tasks by status │ │ ├── status.css # Styles for status component │ │ ├── user.jsx # Component for displaying tasks by user │ │ ├── user.css # Styles for user component │ ├── icons_FEtask/ # Icons used in the application │ ├── App.css # Global styles for the application │ ├── App.js # Main component managing state │ ├── index.css # Styles for the entry point │ ├── index.js # Entry point for the React app │ ├── logo.svg # Logo for the application ├── .gitignore # Git ignore file ├── package.json # Project dependencies and scripts ├── package-lock.json # Locked versions of dependencies └── README.md # Project documentation
+<img width="131" alt="image" src="https://github.com/user-attachments/assets/33f00e15-ae2b-4800-b083-c7d3a86a994e">
+
 
 ### Key Directories and Files
 
