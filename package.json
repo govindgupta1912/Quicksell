@@ -1,0 +1,44 @@
+{
+  "name": "quicksell2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^5.21.2",
+    "axios": "^1.7.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "description": "This project is a React-based Kanban board that allows users to organize tasks dynamically using data fetched from the provided API. Users can group and sort tasks based on their preferences. The Kanban board is designed to be user-friendly and responsive.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
