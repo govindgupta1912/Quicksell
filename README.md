@@ -52,27 +52,7 @@ npm start
 Open http://localhost:3000 in your browser.
 
 ## Project Structure
-.
-├── public
-├── src
-│   ├── components
-│   │   ├── dropdown.jsx
-│   │   ├── priority.jsx
-│   │   ├── priority.css
-│   │   ├── status.jsx
-│   │   ├── status.css
-│   │   ├── user.jsx
-│   │   ├── user.css
-│   ├── icons_FEtask
-│   ├── App.css
-│   ├── App.js
-│   ├── index.css
-│   ├── index.js
-│   ├── logo.svg
-├── .gitignore
-├── package.json
-├── package-lock.json
-└── README.md
+. ├── public/ # Public directory for static files ├── src/ # Source directory for the application │ ├── components/ # Contains React components │ │ ├── dropdown.jsx # Component for grouping and sorting options │ │ ├── priority.jsx # Component for displaying tasks by priority │ │ ├── priority.css # Styles for priority component │ │ ├── status.jsx # Component for displaying tasks by status │ │ ├── status.css # Styles for status component │ │ ├── user.jsx # Component for displaying tasks by user │ │ ├── user.css # Styles for user component │ ├── icons_FEtask/ # Icons used in the application │ ├── App.css # Global styles for the application │ ├── App.js # Main component managing state │ ├── index.css # Styles for the entry point │ ├── index.js # Entry point for the React app │ ├── logo.svg # Logo for the application ├── .gitignore # Git ignore file ├── package.json # Project dependencies and scripts ├── package-lock.json # Locked versions of dependencies └── README.md # Project documentation
 
 ### Key Directories and Files
 
@@ -91,3 +71,18 @@ React JS: Core library for building the app.
 Ant Design: UI component library for styling.
 Axios: For making HTTP requests to the API.
 CSS: For custom styles.
+
+### Demo
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/336af3f9-7e04-423f-9dd8-5bc71bda3186">
+
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/20070f55-8c82-4400-94e6-69c2ce57c845">
+
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/74ef3ed5-6e16-4eb7-97d6-0b250520a265">
+
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/a74a114a-189a-467b-8110-2fe800de7bc2">
+
+
+
+
